@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+.box
+{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+
+    transform: rotate(75deg);
+}
+
+.box:hover{
+
+}
